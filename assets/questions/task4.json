@@ -1,0 +1,9 @@
+[
+    "What is the primary objective of meta-prompting as introduced in the paper?",
+    "How does meta-prompting differ from standard prompting techniques?",
+    "What roles do 'expert' models play within the meta-prompting framework?",
+    "According to the paper, how does integrating a Python interpreter enhance the functionality of meta-prompting?",
+    "What are the potential applications of meta-prompting mentioned in the study?",
+    "How does the performance of meta-prompting compare with that of other zero-shot prompting",
+    "What limitations and failure modes of meta-prompting are identified in the paper?"
+]
