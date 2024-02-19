@@ -20,6 +20,12 @@ A rag flow that takes as a research paper and can be queried with questions defi
 ## Sample Output
 ```
 
-The research paper introduces meta-prompting as a novel approach to problem-solving, aiming to harness the collective intelligence of expert personas for dynamic and effective solutions. Unlike standard prompting techniques, meta-prompting consistently outperforms traditional zero-shot methods, especially in tasks requiring heuristic or trial-and-error strategies. Expert models serve as conduits for knowledge integration and verification loops within this framework. The integration of a Python interpreter expands the versatility of meta-prompting, broadening its potential applications to various tasks. The study highlights meta-prompting's superior performance compared to other zero-shot methods, particularly in complex problem-solving and creative writing tasks. However, the paper also notes limitations such as cost efficiency, scalability, and information transfer challenges that need to be addressed for optimal implementation and success.
+The research paper introduces meta-prompting as a novel approach to problem-solving, aiming to harness the collective intelligence
+of expert personas for dynamic and effective solutions. Unlike standard prompting techniques, meta-prompting consistently outperforms
+traditional zero-shot methods, especially in tasks requiring heuristic or trial-and-error strategies. Expert models serve as conduits for
+knowledge integration and verification loops within this framework. The integration of a Python interpreter expands the versatility of meta-prompting,
+broadening its potential applications to various tasks. The study highlights meta-prompting's superior performance compared to other zero-shot methods,
+particularly in complex problem-solving and creative writing tasks. However, the paper also notes limitations such as cost efficiency, scalability, and
+information transfer challenges that need to be addressed for optimal implementation and success.
 
 ```
